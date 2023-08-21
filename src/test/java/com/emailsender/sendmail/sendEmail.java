@@ -1,3 +1,5 @@
+//main function 
+
 package com.emailsender.sendmail;
 
 import org.springframework.beans.factory.annotation.Autowired;
